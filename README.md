@@ -6,7 +6,8 @@ The goal of this repository is to compile notebooks contain compilation of Machi
   - [Linear Regression with Gradient Descent](https://github.com/azwolf/Algorithms/blob/main/Regression/Linear%20Regression%20-%20Gradient%20Descent.ipynb)
 2. Classification
 3. Boosts
-4. Others
-  - [LeNet] (https://github.com/azwolf/Algorithms/blob/main/CNN/LeNet.ipynb)
-  - [AlexNet] (https://github.com/azwolf/Algorithms/blob/main/CNN/AlexNet.ipynb)
+  - [AdaBoost](https://github.com/azwolf/Algorithms/blob/main/Boosts/Adaboost%20(Theory).ipynb)
+5. Others
+  - [LeNet](https://github.com/azwolf/Algorithms/blob/main/CNN/LeNet.ipynb)
+  - [AlexNet](https://github.com/azwolf/Algorithms/blob/main/CNN/AlexNet.ipynb)
 
